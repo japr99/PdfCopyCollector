@@ -1,0 +1,7 @@
+# PdfCopyCollector — Windows
+# Python 3.14
+# Flet 1.0.1
+flet==1.0.1
+flet-desktop==1.0.1
+PyMuPDF==1.27.2
+certifi==2026.1.4
