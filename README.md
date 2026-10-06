@@ -7,7 +7,6 @@ PdfCopyCollector recopila las páginas de varios archivos o usa las páginas de 
 ## Requisitos
 
 - Python 3.14
-- Un `venv` propio en la raíz del repo
 
 ## Dependencias
 
