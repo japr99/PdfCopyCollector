@@ -1,10 +1,6 @@
 # PdfCopyCollector
 
-PdfCopyCollector es un software para **juntar, ordenar y separar páginas de PDF**: reúne
-varios PDF en uno solo, reordena las páginas a tu gusto y permite eliminar las que no
-quieras, sin complicaciones.
-
-Interfaz gráfica con **Flet 1.0.1** (Flutter embebido) y Python **3.14**.
+PdfCopyCollector recopila las páginas de varios archivos o usa las páginas de un mismo archivo PDF para generar un nuevo archivo PDF, ordenando las páginas según sean a una cara o a doble cara, y generando un archivo de configuración de cajones de papel para poder imprimir cada copia en un cajón diferente en máquinas digitales (en este caso para Fiery Command WorkStation). En el caso de usar un solo archivo, las páginas se duplicarán automáticamente.
 
 🌐 **Web y descargas**: <https://japr.my.canva.site/talnumstack-pagenumber-es>
 
